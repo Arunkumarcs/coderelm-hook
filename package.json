@@ -1,0 +1,26 @@
+{
+  "name": "@arunkumarcoderelm/hook",
+  "version": "1.1.1",
+  "description": "Hook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hook"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arunkumarcs/coderelm-hook.git"
+  },
+  "author": "Arunkumar",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.2",
+    "lodash": "^4.17.11"
+  },
+  "bugs": {
+    "url": "https://github.com/Arunkumarcs/coderelm-hook/issues"
+  },
+  "homepage": "http://coderelm.com/npm/hook/"
+}
